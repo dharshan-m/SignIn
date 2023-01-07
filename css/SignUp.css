@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-left: 700px;
+    margin-top: 200px;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.secondname {
+    margin-top: 20px;
+}
+
+.date{
+    margin-top: 20px;
+}
+
+.main {
+    margin-top: 20px;
+}
+
+.type {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.container {
+    background-color: gainsboro;
+    width: 168px;
+    border-radius: 10px;
+}
+
+html {
+    background-color: blanchedalmond;
+}

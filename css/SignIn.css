@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .container{
+    margin-left: 650px;
+    margin-top: 250px;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    text-align: center;
+    cursor: pointer;
+} */
+
+html {
+    margin-left: 700px;
+    margin-top: 250px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.type {
+    margin-top: 30px;
+}
+
+.box {
+    margin-top: 30px;
+    margin-left: 57px;
+}
+
+.container {
+    background-color: gainsboro;
+    width: 168px;
+    border-radius: 10px;
+}
+
+html {
+    background-color: blanchedalmond;
+}
