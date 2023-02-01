@@ -40,3 +40,96 @@ button {
 html {
     background-color: blanchedalmond;
 }
+.container{
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,.37);
+}
+.container {
+    width: 370px;
+    height: 460px;
+    margin-left: 590px;
+    margin-top: 115px;
+}
+
+.secondname {
+    margin-left: 105px;
+    margin-top: 40px;
+}
+
+.date {
+    margin-left: 105px;
+    margin-top: 40px;
+}
+
+.main {
+    margin-left: 105px;
+    margin-top: 45px;
+}
+
+.type {
+    margin-left: 105px;
+    margin-top: 40px;
+}
+button {
+    margin-left: 155px;
+    margin-top: 50px;
+}
+
+.name{
+    margin-left: 105px;
+}
+button {
+    margin-top: 60px;
+}
+
+input.first {
+    width: 200px;
+    border-radius: 10px;
+    height: 30px;
+    border-style: none;
+    margin-top: 50px;
+}
+
+input.second {
+    width: 200px;
+    border-radius: 10px;
+    height: 30px;
+    border-style: none;
+}
+
+input.D.O.B {
+    width: 200px;
+    border-radius: 10px;
+    height: 30px;
+    border-style: none;
+}
+
+input.email {
+    width: 200px;
+    border-radius: 10px;
+    border-style: none;
+    height: 30px;
+}
+
+input.password {
+    width: 200px;
+    border-radius: 10px;
+    border-style: none;
+    height: 30px;
+}
+
+button {
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.container {
+    width: 415px;
+    height: 530px;
+    margin-top: 150px;
+    margin-top: 50px;
+}
+.container {
+    margin-top: 95px;
+}
