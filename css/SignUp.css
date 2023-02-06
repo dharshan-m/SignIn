@@ -7,29 +7,9 @@
     margin-left: 700px;
     margin-top: 200px;
     justify-content: space-between;
-    cursor: pointer;
+    
 }
 
-.secondname {
-    margin-top: 20px;
-}
-
-.date{
-    margin-top: 20px;
-}
-
-.main {
-    margin-top: 20px;
-}
-
-.type {
-    margin-top: 20px;
-}
-
-button {
-    margin-top: 20px;
-    margin-left: 60px;
-}
 
 .container {
     background-color: gainsboro;
@@ -38,7 +18,8 @@ button {
 }
 
 html {
-    background-color: blanchedalmond;
+    background-color: rgb(254, 142, 142);
+    
 }
 .container{
     background: rgba(255, 255, 255, 0.06);
@@ -86,7 +67,8 @@ input.first {
     width: 200px;
     border-radius: 10px;
     height: 30px;
-    border-style: none;
+    /* border-style: none; */
+    cursor: pointer;
     margin-top: 50px;
 }
 
@@ -94,34 +76,39 @@ input.second {
     width: 200px;
     border-radius: 10px;
     height: 30px;
-    border-style: none;
+    cursor: pointer;
+    /* border-style: none; */
 }
 
 input.D.O.B {
     width: 200px;
     border-radius: 10px;
     height: 30px;
-    border-style: none;
+    cursor: pointer;
+    /* border-style: none; */
 }
 
 input.email {
     width: 200px;
     border-radius: 10px;
-    border-style: none;
+    /* border-style: none; */
     height: 30px;
+    cursor: pointer;
 }
 
 input.password {
     width: 200px;
     border-radius: 10px;
-    border-style: none;
+    /* border-style: none; */
     height: 30px;
+    cursor: pointer;
 }
 
 button {
     width: 100px;
     height: 35px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .container {
