@@ -11,3 +11,12 @@ html {
 h2 {
     margin-left: 92px;
 }
+
+button {
+    margin-top: 45px;
+    margin-left: 180px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
